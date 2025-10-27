@@ -1,4 +1,7 @@
-## Hi there 👋
+CV: [Click aici](https://github.com/Skiuileuf/Skiuileuf/blob/aaff4110574fd3577d5e5204728c6b155590d39b/CV%20Viziteu%20Mihai.pdf)
+===
+
+
 
 <!--
 **Skiuileuf/Skiuileuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
